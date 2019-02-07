@@ -1,0 +1,16 @@
+ 
+Hello Good Morningh
+<parties>
+
+    <party>
+    <party-name>Dink-chak impana</party-name>
+    <party-president>Impana</party-president>
+    <party-symbol>Mike</party-symbol>
+    </party>
+    <party>
+    <party-name>Bajarang Dal</party-name>
+    <party-president>Yogi Adityanath</party-president>
+    <party-symbol>cow</party-symbol>
+    </party>
+
+   </parties>ewqgdhgwqf
